@@ -7,12 +7,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... 🤫
-- 🌱 I’m currently learning ... 🥳
-- 👯 I’m looking to collaborate on ... 🤗
-- 🤔 I’m looking for help with ... 🤩
-- 💬 Ask me about ... 🤖 iOS, macOS, IT, and so on. 
-- 📫 How to reach me: ... 🥵
+- 🔭 I’m currently working on AppleOS
+- 🌱 I’m currently learning Full-Stack
+- 💬 Ask me about iOS/Python/Go, and so on. 
+- 📫 How to reach me: iHTCboy.com
 - 😄 Pronouns: ... 👻
 - ⚡ Fun fact: ... 🎃
 
