@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iHTCboy&show_icons=true&icon_color=fe554e&text_color=ffbd2d&bg_color=1d1d1d&title_color=28ca40&hide_title=true&hide_border=true&locale=en" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iHTCboy&show_icons=true&icon_color=fe554e&text_color=ffbd2d&bg_color=000000&title_color=28ca40&hide_title=true&hide_border=true&locale=en" />
 
 <!--
 **iHTCboy/iHTCboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
